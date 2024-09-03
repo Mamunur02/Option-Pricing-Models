@@ -1,0 +1,1 @@
+This program allows the user to calculate the price of a European call/put. It takes the stock, strike price and risk-free rate as parameters then calculates the value of the option using the Binomial, Black-Scholes and Monte-Carlo methods. The historical data is fetched using the Yahoo Finance API and it uses the annualized historical volatility as the parameter for sigma.
